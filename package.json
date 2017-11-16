@@ -1,0 +1,23 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "\"Hi\" in different languages",
+  "main": "index.js",
+  "bin": {
+    "hi": "bin/hi.js",
+    "szia": "bin/szia.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/hi.git"
+  },
+  "author": "Zoltan Kochan <z@kochan.io> (https://www.kochan.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/hi/issues"
+  },
+  "homepage": "https://github.com/zkochan/hi#readme"
+}
